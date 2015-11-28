@@ -1,3 +1,6 @@
+# specific code that contains non-public stuff
+anon_id_utils.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
